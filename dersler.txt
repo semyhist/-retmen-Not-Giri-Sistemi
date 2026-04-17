@@ -1,0 +1,2 @@
+001,Yapçsal Programlama,001_notlar.txt,bagil
+2,Bilgisayarçn Temelleri,2_notlar.txt,bagil

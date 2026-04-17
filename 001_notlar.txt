@@ -1,0 +1,3 @@
+# Yapçsal Programlama dersi notlari
+252302003 70.00 70.00 -1.00
+1 70.00 70.00 -1.00

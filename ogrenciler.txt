@@ -1,0 +1,4 @@
+1,Semih,Aydçn,semih_aydin25@trabzon.edu.tr
+2,Osman,Baycan,osman_baycan25@trabzon.edu.tr
+3,òhsan,Eroßlu,ihsan_eroglu25@trabzon.edu.tr
+
